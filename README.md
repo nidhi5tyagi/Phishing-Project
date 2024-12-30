@@ -18,7 +18,6 @@ Additionally, the mission for the user will be to interact with the website to a
 ```
 ├── webpage.html       # Main HTML file
 ├── styles2.css       # CSS for styling
-├── script.js        # JavaScript for interactivity
 ├── webhook_handler  # Webhook backend handler (if applicable)
 └── README.md        # Project documentation
 ```
