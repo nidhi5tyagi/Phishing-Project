@@ -22,16 +22,6 @@ Additionally, the mission for the user will be to interact with the website to a
 └── README.md        # Project documentation
 ```
 
-## Installation
-1. Clone this repository:
-   ```
-   git clone https://github.com/your-username/project-website
-   ```
-2. Navigate to the project directory:
-   ```
-   cd project-website
-   ```
-3. Open `index.html` in your browser to view the website.
 
 ## Usage
 1. Explore the interactive elements on the website.
