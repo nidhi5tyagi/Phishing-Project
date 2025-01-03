@@ -36,6 +36,6 @@ Additionally, the mission for the user will be to interact with the website to a
 
 
 
-Use the webhook to simulate interactions (if backend is configured).
+Used the webhook to simulate interactions (if backend is configured).
 
-Attempt to complete the mission of obtaining Alice's or Bob's password through the challenges presented.
+completed the mission of obtaining Alice's or Bob's password through the challenges presented.
